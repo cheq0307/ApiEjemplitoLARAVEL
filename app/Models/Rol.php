@@ -11,3 +11,6 @@ class Rol extends Model
 
     protected $fillable = ['nombre'];
 }
+railway.jsong forzar applicacion
+limpie rutas conf, listado forze migracion
+mysql debe aparece tablas de sesiones y bd
